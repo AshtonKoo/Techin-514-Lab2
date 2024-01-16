@@ -14,4 +14,4 @@
 ![Display Device](https://github.com/AshtonKoo/Techin-514-Lab2/blob/main/display.jpeg)
 
 **How does it work between Sensor and Display Devices**:
-![S & D Device](https://github.com/GraceRao/514---Project/blob/main/514%20-%20How%20it%20work%20between.jpg)
+![S & D Device](https://github.com/AshtonKoo/Techin-514-Lab2/blob/main/s%20%26%20d.jpeg)
