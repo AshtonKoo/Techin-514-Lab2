@@ -8,7 +8,7 @@
 ![Idea Sketch](https://github.com/AshtonKoo/Techin-514-Lab2/blob/main/sK.jpg)
 
 **Sensor Device**:
-![Sensor Device](https://github.com/GraceRao/514---Project/blob/main/514%20-%20Sensor.jpg)
+![Sensor Device](https://github.com/AshtonKoo/Techin-514-Lab2/blob/main/sensor.jpeg)
 
 **Display Device**:
 ![Display Device](https://github.com/AshtonKoo/Techin-514-Lab2/blob/main/display.jpeg)
